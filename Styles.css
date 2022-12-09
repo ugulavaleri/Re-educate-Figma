@@ -1,0 +1,169 @@
+body{
+    margin: 0;
+    height: 900px;
+}
+header,
+.section{
+    display: inline-block;
+}
+*{
+    font-family: 'Montserrat', sans-serif;
+}
+.leftside-div{
+    width: 400px;
+    height: 900px;
+    background-color: rgba(0, 128, 255, 0.877);
+}
+h1{
+    font-size: 22px;
+    color: white;
+    letter-spacing: 1px;
+    margin: 0;
+    padding-top:50px;
+}
+.list-item-1{
+   margin-bottom: 140px;
+}
+.list-item-2{
+   margin-bottom: 30px;
+}
+.list-item-4{
+   margin-top: 470px;
+}
+ul{
+    margin-top: 0;
+    list-style: none;
+    padding-left: 70px;
+}
+.leftside-nav-link1,
+.leftside-nav-link2,
+.leftside-nav-link3{
+    text-decoration: none;
+    color: white;
+    font-weight: 600;
+    font-size: 19px;
+    
+}
+form{
+    margin-left: 50px;
+}
+/*   icon styles   */
+.vector-icon{
+    width: 30px;
+    margin-right: 7px;
+}
+.dashboard-icon{
+    width: 15px;
+    margin-right: 10px;
+}
+.setting-icon{
+    width: 20px;
+    margin-right: 4px;
+}
+.logout-icon{
+    margin-right: 10px;
+}
+/*   icon styles   */
+
+h2{
+    color: #515151;
+    margin-bottom: 100px;
+}
+input::placeholder{
+    color: #515151;
+    font-weight: 600;
+}
+.input{
+    width: 300px;
+    height: 50px;
+    padding-left: 20px;
+    margin-bottom: 30px;
+}
+.form-btn{
+    text-decoration: none;
+    color: white;
+    background-color: #333333;
+    padding: 15px 30px;
+    font-weight: 600;
+}
+.form-btn:hover{
+    background-color: #434343
+}
+
+fieldset{
+    border: none;
+}
+
+.h2-div{
+    margin-top:0;
+    margin-bottom: 25px;
+}
+.h2-div h2{
+    color: rgb(81, 81, 81);
+    letter-spacing: 1px;
+    margin-top:0;
+    margin-bottom: 55px;
+} 
+.block-div{
+    width: 230px;
+    height: 150px;
+    border-radius: 22px;
+    background-color: #333333;
+    text-align: center;
+}
+.block-div p{
+    color:white;
+    margin: 0;
+    font-weight: 600;
+}
+.p1{
+    font-size: 35px;
+    letter-spacing: 2px;
+}
+.p2{
+    font-size: 13.5px;
+}
+
+/*   first table   */
+.fir-left-data{
+    padding: 17px 20px 17px 20px;
+    
+}
+.fir-right-data{
+    text-align: center;
+}
+table{
+    border: 1px solid #BDBDBD;
+    width: 800px;
+    border-collapse: collapse;
+}
+table tr{
+    border-bottom: 1px solid #BDBDBD;
+}
+.first-fieldset{
+    margin-top: 40px;
+}
+.first-legend{
+    margin-bottom: 10px;
+    font-size: 16px;
+    font-weight: 600;
+}
+/*   first table   */
+
+/*   second table   */
+.sec-left-data{
+    padding: 17px 15px;
+    border-right: none;
+}
+.sec-right-data{
+    text-align: center;
+}
+.second-fieldset{
+    margin-top: 40px;
+}
+.second-legend{
+    margin-bottom: 10px;
+    font-size: 16px;
+    font-weight: 600;
+}
+/*   second table   */
