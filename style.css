@@ -1,0 +1,50 @@
+.leftside-div{
+  background-color: #2a5eff;
+  width: 400px;
+  height: 900px;
+}
+img{
+	width: 31px;
+	height: 20px;
+}
+a{
+	font-size: 24px;
+	color : white;
+	text-decoration: none;
+	margin-left: 15px;
+}
+.signup button{
+	margin-top: 280px;
+	margin-left: 50px;
+	color: white;
+	background-color: #333333;
+	width: 300px;
+	height: 60px;
+}
+.login button{
+	margin-top: 60px;
+	margin-left: 50px;
+	color: white;
+	background-color: #333333;
+	width: 300px;
+	height: 60px;
+}
+.main-info p{
+    margin-left: 897px;
+	font-size: 36px;
+    font-weight: 400px;
+    line-height: 2px;
+	color: #4f4f4f;
+}
+.main-info2 p{
+	margin-left: 472px;
+	font-size: 36px;
+    font-weight: 400px;
+    line-height: 2px;
+	color: #4f4f4f;
+}
+.main-info img{
+	margin-left: 422px;
+	width: 951px;
+    height: 607px;
+}
